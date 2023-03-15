@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sec1{
+    background-color: #1F2937;
+    height: 25em;
+    width: auto;
+}
+
+
+.htext{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    margin: 0px 0px 0px 3em;
+    padding: 0px 0px 0px 0px;
+    width: 500px;
+    height: auto;
+}
+
+.subtext{
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 10px 0px 0px 8em;
+    padding: 0px 0px 0px 0px;
+    height: auto;
+    width: 450px;
+}
+
+.navbar li{
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 7px;
+    margin: 10px 33px 0px 1px;
+    display: inline-block;
+    float: right;
+}
+
+.navbar p{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0px 0px 60px 6em;
+    padding: 17px;
+
+}
+.navbar{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.img1{
+    width: 27em;
+    height: 15em;
+    float: right;
+    margin: -164px 23px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.img2,.img3,.img4,.img5{
+    width: 11em;
+    height: 10em;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sec2 p{
+    font-size: 36px ;
+    color: #1F2937;
+    font-weight: bolder;
+    margin: 25px 0px 25px 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+
+}
+
+.sec2{
+    height: 25em;
+}
+
+.sec3{
+    background-color: #E5E7EB;
+    height: 20em;
+}
+.quote{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    width: 19em;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 56px 0px 17px 6em
+    
+}
+.author{
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    margin: -21px 0px 0px 0px;
+    padding: 0px 0px 0px 20em;
+}
+.bkb{
+    background-color: blue;
+    margin: 51px 6px 80px 226px;
+    padding: 4px 0px 0px 0px;
+    height: 5em;
+    width: 41em;
+}
+.bkb p{
+    font-weight: bolder;
+    color: #E5E7EB;
+    margin: 21px 0px 0px 0px;
+    padding: 6px 8px 11px 18em;
+}
+sec4{
+    height:500em;
+}
